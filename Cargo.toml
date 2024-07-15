@@ -5,3 +5,4 @@ edition = "2021"
 
 [dependencies]
 rocket = { version = "0.5.1", features = ["json", "msgpack"] }
+tokio = { version = "1.38.0", features = ["time"] }

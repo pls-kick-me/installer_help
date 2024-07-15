@@ -470,6 +470,7 @@ name = "installer_help"
 version = "0.1.0"
 dependencies = [
  "rocket",
+ "tokio",
 ]
 
 [[package]]
