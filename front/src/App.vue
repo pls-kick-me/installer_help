@@ -1,6 +1,5 @@
 <script setup>
 import { onMounted, onUnmounted, ref, reactive } from 'vue'
-import _ from 'lodash'
 import axios from 'axios'
 
 const log = ref(null)
